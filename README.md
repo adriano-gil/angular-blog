@@ -1,27 +1,18 @@
-# AngularBlog
+# Blog Simples sobre a DC.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.10.
+Este é um projeto simples de blog desenvolvido como parte de um desafio de projeto da **DIO**. Ele apresenta duas páginas dinâmicas: **Home** e **Content**, com foco na responsividade e na experiência do usuário.
 
-## Development server
+## Sobre o Projeto
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Desenvolvido com **Angular 17**, este blog é uma demonstração de como construir uma aplicação web moderna e responsiva. O layout se adapta a diferentes tamanhos de tela, garantindo uma boa experiência tanto em dispositivos móveis quanto em desktops.
 
-## Code scaffolding
+### Funcionalidades
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- **Home**: Página inicial com uma visão geral das postagens.
+- **Content**: Página para visualização de conteúdos detalhados.
+- **Responsividade**: Design que se ajusta perfeitamente a diferentes dispositivos.
 
-## Build
+## Tecnologias Utilizadas
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- **Angular 17**: Para a construção da interface de usuário dinâmica.
+- **CSS**: Para estilização e responsividade.
